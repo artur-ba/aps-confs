@@ -26,7 +26,6 @@ call plug#begin('~/.vim/plugged')
 " plugins
 Plug 'tpope/vim-fugitive'
 Plug 'chase/vim-ansible-yaml'
-Plug 'wakatime/vim-wakatime'
 
 Plug 'jnurmine/Zenburn'
 Plug 'altercation/vim-colors-solarized'
